@@ -1,18 +1,7 @@
 # Workout-Tracker
 
-![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
-<p align="center">
-    <img src="https://img.shields.io/github/repo-size/tobin14-jpg/E-commerce-_back-end" />
-    <img src="https://img.shields.io/github/languages/top/tobin14-jpg/E-commerce-_back-end"  />
-    <img src="https://img.shields.io/github/issues/tobin14-jpg/E-commerce-_back-end" />
-    <img src="https://img.shields.io/github/last-commit/tobin14-jpg/E-commerce-_back-end" >
-</p>
-  
-<p align="center">
-    <img src="https://img.shields.io/badge/Javascript-yellow" />
-    <img src="https://img.shields.io/badge/VisualStudioCode-blue"  />
-    <img src="https://img.shields.io/badge/-Node.js-green" />
-    <img src="https://img.shields.io/badge/-Express-red" >
+    ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+
 
 
 </p>
@@ -60,6 +49,17 @@ If the exercise is a cardio exercise, I should be able to track my distance trav
 
 ## Visual Demo
 
+Summary Page
+
+![image](https://user-images.githubusercontent.com/83910221/136792541-15f1e5d4-4cd3-4218-bd2c-3952ea571e90.png)
+
+Add a new workout / exercise
+
+![image](https://user-images.githubusercontent.com/83910221/136792741-41e4fe41-d3f7-4ee0-b71f-ddf2c8d7ba64.png)
+
+Progress Dashboard
+
+![image](https://user-images.githubusercontent.com/83910221/136792882-7b14ae90-b685-4d33-a7fb-b6b2c46e768c.png)
 
 ## Tests
 
@@ -84,3 +84,4 @@ If the exercise is a cardio exercise, I should be able to track my distance trav
 > Shaun Tobin - [https://github.com/tobin14-jpg](https://github.com/tobin14-jpg)
 
 ## Contact 
+✉️ Contact me with any questions: [email](mailto:shauntobin88@gmail.com) , [GitHub](https://github.com/shauntobin88@gmail.com)<br />
