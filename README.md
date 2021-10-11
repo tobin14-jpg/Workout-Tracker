@@ -1,10 +1,5 @@
 # Workout-Tracker
 
-    ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
-
-
-
-</p>
 ## Description
 
 > An App to track workouts, the fitness tracker allows users to create a workout where they enter various exercises associated to the workout. The data can then be analyzed with an included stats page that provides insights into the details of all their workouts. Built with MongoDB with help of MongoDb Atlas connected a database and deployed Heroku web page.
