@@ -67,7 +67,7 @@ function populateChart(data) {
       labels,
       datasets: [
         {
-          label: 'Pounds',
+          label: 'Kilograms',
           data: pounds,
           backgroundColor: [
             'rgba(255, 99, 132, 0.2)',
@@ -92,7 +92,7 @@ function populateChart(data) {
     options: {
       title: {
         display: true,
-        text: 'Pounds Lifted (Last 7 days)',
+        text: 'Kilograms Lifted (Last 7 days)',
       },
       scales: {
         yAxes: [
@@ -107,5 +107,5 @@ function populateChart(data) {
   });
 }
 
-// get all workout data from back-end
+// get all workout data from backend
 API.getWorkoutsInRange().then(populateChart);
