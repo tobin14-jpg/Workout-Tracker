@@ -79,4 +79,4 @@ Progress Dashboard
 > Shaun Tobin - [https://github.com/tobin14-jpg](https://github.com/tobin14-jpg)
 
 ## Contact 
-✉️ Contact me with any questions: [email](mailto:shauntobin88@gmail.com) , [GitHub](https://github.com/shauntobin88@gmail.com)<br />
+✉️ Contact me with any questions: [email](mailto:shauntobin88@gmail.com) , [GitHub](https://github.com/tobin14-jpg)<br />
